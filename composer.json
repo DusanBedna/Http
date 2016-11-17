@@ -1,9 +1,9 @@
 {
-    "name": "butler/http",
-    "description": "http",
+    "name": "vendor/http",
+    "description": "Description of project http.",
     "authors": [
         {
-            "name": "Dušan Bednárek",
+            "name": "Dusan Bednarek",
             "email": "dusan.bednarek@gmail.com"
         }
     ],
