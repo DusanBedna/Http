@@ -1,0 +1,11 @@
+{
+    "name": "butler/http",
+    "description": "http",
+    "authors": [
+        {
+            "name": "Dušan Bednárek",
+            "email": "dusan.bednarek@gmail.com"
+        }
+    ],
+    "require": {}
+}
