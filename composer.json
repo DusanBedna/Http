@@ -1,11 +1,11 @@
 {
     "name": "dusanbedna/http",
-    "description": "Description of project http",
-    "version": "1.0.0",
+    "description": "Description of project http.",
     "authors": [
         {
             "name": "Dusan Bednarek",
             "email": "dusan.bednarek@gmail.com"
         }
-    ]
+    ],
+    "require": {}
 }
