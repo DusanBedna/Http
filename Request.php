@@ -1,6 +1,6 @@
 <?php
 
-namespace Butler\Http;
+namespace Http;
 
 class Request {
 

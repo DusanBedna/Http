@@ -1,6 +1,6 @@
 <?php
 
-namespace Butler\Http\Url;
+namespace Http\Url;
 
 class Url {
   //put your code here
